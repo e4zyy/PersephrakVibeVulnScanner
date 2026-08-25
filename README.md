@@ -52,7 +52,7 @@ pip install requests colorama
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PersephrakVibeVulnScanner.git
+   git clone https://github.com/e4zyy/PersephrakVibeVulnScanner.git
    cd PersephrakVibeVulnScanner
    ```
 
