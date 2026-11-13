@@ -14,7 +14,7 @@ IMPORTANT:
     making it faster and more accurate than purely rule-based scanners.
 
 License: MIT
-Author: Xer0TLabs x Persephrak Decentralized Syndicate
+Author: e4zyy | NOEL BUNSIAU
 """
 
 import argparse
